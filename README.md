@@ -42,8 +42,6 @@ Designing Microsoft Azure Infrastructure Solutions
 
 See all my Certifications here 👉🏻 https://www.credly.com/users/rajeshwaran-kumarasamy
 
-<img width="223" alt="image" src="https://user-images.githubusercontent.com/112589969/187801023-73b85627-4c55-41a7-848f-1a0842882a83.png">
-#<img width="233" alt="image" src="https://user-images.githubusercontent.com/112589969/187801075-9859abe7-f5ba-4c75-8211-0796ab7468ab.png">
 <img width="233" alt="image" src="https://images.credly.com/size/220x220/images/99289602-861e-4929-8277-773e63a2fa6f/image.png">
 <img width="233" alt="image" src="https://images.credly.com/size/220x220/images/c66ddfa8-4e9d-41e4-bf98-244a4d55a14e/exam-az300-600x600.png">
 <img width="233" alt="image" src="https://images.credly.com/size/220x220/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png">
