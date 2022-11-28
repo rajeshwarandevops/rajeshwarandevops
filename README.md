@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate Terrafrom automation
 - 💙 loves learning. problem-solving. Never give up 
 - 👐🏻 I'm looking for unlimited leaning opportunities.
--📧 write at kbrajeshwaran@hotmail.com
+-📧 write at kbrajeshwaran@gmail.com
 
 
 
